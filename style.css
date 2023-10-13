@@ -45,6 +45,10 @@ body{
 
 }
 
+iframe {
+    border: none;
+}
+
 .faq {
     max-width: 800px;
     margin: 0 auto;
@@ -199,6 +203,7 @@ h2 {
     width: 200px;
     height: 200px;
   }
+  
   
   .fade {
     animation-name: fade;
